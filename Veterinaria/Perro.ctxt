@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_edad\ p_costo\ p_estado
+comment0.target=Perro(java.lang.String,\ int,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ emitirSonido()
+comment2.params=
+comment2.target=java.lang.String\ queAnimal()
+comment2.text=Regresa\ una\ cadena\ con\ informacion\ de\ que\ tipo\ de\ animal\ es.\r\n
+comment3.params=
+comment3.target=double\ precioVenta()
+numComments=4

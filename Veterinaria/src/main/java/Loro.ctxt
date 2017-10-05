@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_edad\ p_costo\ p_estado\ p_habla
+comment0.target=Loro(java.lang.String,\ int,\ double,\ java.lang.String,\ boolean)
+comment1.params=
+comment1.target=boolean\ getHabla()
+comment2.params=valor
+comment2.target=void\ setHabla(boolean)
+comment3.params=
+comment3.target=java.lang.String\ emitirSonido()
+comment4.params=
+comment4.target=java.lang.String\ queAnimal()
+comment5.params=
+comment5.target=double\ precioVenta()
+numComments=6
